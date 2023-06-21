@@ -37,8 +37,6 @@
 
 %cognitive task: cog_tasks = table of cognitive task results 
 
-%Note: remove underweight subjects from models and make sure rows are the same
-%across all tables
 
 %% WHOLE BRAIN LEVEL
 
